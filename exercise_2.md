@@ -7,7 +7,7 @@ In `lexer.rb`, write a function `to_token` which takes an array of strings produ
 
 For the mathematical operations `+, -, *, /` it should returns the following values:
 
-- `"plus"
+- `"plus"`
 - `"minus"`
 - `"times"`
 - `"div"`
